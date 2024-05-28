@@ -24,3 +24,8 @@ WHERE CONDITION=MET
 
 
 ![](NY.JPG)
+
+|Name |Place | Amount| Date|
+|-----| ----| -------|-----|
+| Lola| Lagos| 1000| 12-05-24|
+
